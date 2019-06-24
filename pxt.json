@@ -1,0 +1,26 @@
+{
+    "name": "OLED",
+    "version": "1.2.6",
+    "description": "",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+    },
+    "files": [
+        "README.md",
+        "SSD1306_OLED.cpp",
+        "Adafruit_SSD1306.h",
+        "Adafruit_SSD1306.cpp",
+        "Adafruit_GFX.h",
+        "Adafruit_GFX.cpp",
+        "Adafruit_GFX_Config.h",
+        "glcdfont.h",
+        "OLED.ts",
+        "_locales/zh/OLED-strings.json"
+    ],
+    "testFiles": [
+    ],
+    "public": false,
+    "installedVersion": "workspace:789df45a-19af-42c5-95bf-52cd330ecd08"
+}
