@@ -26,7 +26,7 @@ Displays a number on the OLED module with a newline.
 Displays a string on the OLED module with a newline.
 
 ### 3.clear
-![image](https://github.com/DFRobot/pxt-NFCUART/blob/master/image/clear.png)<br>
+![image](https://github.com/Arya11111/pxt-OLED/blob/master/image/clear.png)<br>
 Clears the display.
 
 ## License
